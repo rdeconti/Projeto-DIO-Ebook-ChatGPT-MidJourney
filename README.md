@@ -51,3 +51,13 @@ Este projeto foi proposto pela Digital Innovation One
 ## 🛠️ Instruções de execução
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
+# REPOSTA AO DESAFIO
+## Definição do título pelo CHATGPT
+Claro! Aqui vão 5 variações de títulos épicos e curtos para um ebook sobre CSS com temática Star Wars:
+"CSS: A Nova Esperança"
+"O Império Contra-Ataca com CSS"
+"O Lado CSS da Força"
+"CSS: O Despertar do Código"
+"Os Últimos Jedi do CSS"
+
+## E-book está no repositório
